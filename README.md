@@ -1,4 +1,4 @@
 # new-demo
 This is my first repository
 <br>
-Author- Disha Chopada
+Author- Disha Chopada (editor)
